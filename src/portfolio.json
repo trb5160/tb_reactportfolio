@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Get Out of Town Travel App",
+        "image": "https://github.com/trb5160/Project-1/blob/main/assets/website/mainpage.png?raw=true",
+        "github": "https://github.com/trb5160/Project-1",
+        "deploy": "https://trb5160.github.io/Project-1/",
+        "topics": "HTML, CSS, Java"
+    },
+    {
+        "id": 2,
+        "name": "NJ College Networking",
+        "image": "https://github.com/KPetiote/Project-2/blob/main/public/images/screenshot.png?raw=true",
+        "github": "https://github.com/KPetiote/Project-2",
+        "deploy": "https://nj-college-application.herokuapp.com/",
+        "topics": "HTML, CSS, Javascript, Node, Express, mysql"
+    },
+    {
+        "id": 3,
+        "name": "User Directory",
+        "image": "https://github.com/trb5160/tb_user_directory/blob/main/public/assets/websitescreenshot.jpg?raw=true",
+        "github": "https://github.com/trb5160/tb_user_directory",
+        "deploy": "https://blooming-inlet-66521.herokuapp.com/",
+        "topics": "React"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/trb5160/TB_WeatherDashboard/blob/main/assets/images/screenshot.png?raw=true",
+        "github": "https://github.com/trb5160/TB_WeatherDashboard.git",
+        "deploy": " https://trb5160.github.io/TB_WeatherDashboard/ ",
+        "topics": "HTML, Javascript, CSS"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "https://github.com/trb5160/TB_NoteTaker/blob/main/public/assets/images/serverScreenshot.png?raw=true",
+        "github": "https://github.com/trb5160/TB_TeamProfileGenerator.git",
+        "deploy": ":https://desolate-cliffs-05101.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+    },
+    {
+        "id": 6,
+        "name": "Code Refractor",
+        "image": "https://github.com/trb5160/HoriseonHW1/blob/main/assets/images/ScreencaptureWebsite.jpg?raw=true",
+        "github": "https://github.com/trb5160/HoriseonHomework1",
+        "deploy": "https://trb5160.github.io/HoriseonHomework1/",
+        "topics": "HTML, CSS"
+    }
+]
